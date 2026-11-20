@@ -1,0 +1,22 @@
+{
+  "wheel_id": 933,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-119",
+  "project": "waterproofing-services-adelaide-maintenance-286235f735801981b26",
+  "parent_t1_ref": "prowaterproofingadelaide-159",
+  "node_role": "feeder",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing services adelaide maintenance",
+  "intended_url": "https://sitesau.github.io/prowaterproofingadelaide-119/",
+  "tier": "T2",
+  "writeback_nonce": "3937217f32373e9c",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/waterproofing-services-adelaide-materials-compared-f141d46a656b/",
+      "anchor": "more on waterproofing services adelaide materials compared",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
